@@ -2,7 +2,7 @@ version: 2.1
 description: "Show cloud cost estimate changes for Terraform in pull requests."
 display:
   home_url: https://www.infracost.io
-  source_url: https://github.com/infracost/infracost-orb
+  source_url: https://github.com/kynefuk/infracost-orb
 jobs:
   infracost:
     docker:
